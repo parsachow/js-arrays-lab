@@ -95,7 +95,7 @@ Exercise 9:
 
 // Complete Exercise 9 below...
 
-
+const allFoods = foods.join('->');
 
 console.log('Exercise 9 Result:\n', allFoods);
 
@@ -107,7 +107,7 @@ Exercise 10:
 // Complete Exercise 10 below...
 
 
-
+const hasSoup = false;
 console.log('Exercise 10 Result:\n', hasSoup);
 
 /*
@@ -119,6 +119,7 @@ Exercise 11:
 const nums = [100, 5, 23, 15, 21, 72, 9, 45, 66, 7, 81, 90];
 
 // Complete Exercise 11 below...
+let odds = [];
 
 
 
@@ -156,6 +157,7 @@ const numArrays = [
 
 // Complete Exercise 13 below...
 
+let numList = numArrays[numArrays.length- 1];
 
 
 console.log('Exercise 13 Result:\n', numList);
@@ -167,7 +169,7 @@ Exercise 14:
 
 // Complete Exercise 14 below...
 
-
+let num = numArrays[2][1];
 
 console.log('Exercise 14 Result:\n', num);
 
