@@ -16,7 +16,7 @@ Exercise 2:
 
 // Complete Exercise 2 below...
 
-foods.splice("0, 0, "pizza", "cheeseburger");
+foods.splice(0, 0, "pizza", "cheeseburger");
 
 console.log('Exercise 2 Result:\n',  foods);
 
@@ -27,7 +27,7 @@ Exercise 3:
 
 // Complete Exercise 3 below...
 
-
+foods.unshift("taco");
 
 console.log('Exercise 3 Result:\n', foods);
 
