@@ -73,7 +73,7 @@ Exercise 7:
 // Complete Exercise 7 below...
 
 
-
+const yummy = foods.slice(1, 3);
 console.log('Exercise 7 Result:\n', yummy);
 
 /*
@@ -83,7 +83,7 @@ Exercise 8:
 
 // Complete Exercise 8 below...
 
-
+let soyIdx = foods.indexOf("tofu");
 
 console.log('Exercise 8 Result:\n', soyIdx);
 
