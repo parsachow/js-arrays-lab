@@ -39,7 +39,7 @@ Exercise 4:
 // Complete Exercise 4 below...
 
 
-
+const favFood = foods[1];
 console.log('Exercise 4 Result:\n', favFood);
 
 /*
@@ -50,7 +50,7 @@ Exercise 5:
 // Complete Exercise 5 below...
 
 
-
+foods.splice(2, 0, "tofu");
 console.log('Exercise 5 Result:\n', foods);
 
 /*
